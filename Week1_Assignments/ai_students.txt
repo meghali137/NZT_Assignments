@@ -1,0 +1,6 @@
+Meghali,78,B
+Abhrajit,88,A
+Arghyajit,65,C
+Soumendu,92,A
+Sudip,74,B
+Gobey,86,B
